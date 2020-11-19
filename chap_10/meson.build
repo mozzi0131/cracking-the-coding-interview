@@ -1,0 +1,1 @@
+executable('runquicksort', 'runsort.cc')
